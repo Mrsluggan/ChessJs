@@ -27,7 +27,6 @@ function cellClicked() {
     movePiece(cellIndex);
 }
 
-
 function movePiece(index) {
 
     if (currentClickedIndex === null) {
@@ -62,6 +61,8 @@ function movePiece(index) {
 
                 event.target.innerHTML = currentPawn
             }
+            
+        }else{
             originalSquare.style.backgroundColor = 'black';
 
         }
@@ -71,7 +72,8 @@ function movePiece(index) {
     }
 
 
-} function addPawns(index, chessBoardCells, boardArray) {
+} 
+function addPawns(index, chessBoardCells, boardArray) {
 
     //Rita svartas pawns
     if (index <= 15 && index >= 8) {
