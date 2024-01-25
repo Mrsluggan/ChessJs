@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#ChessBoard {
+
+
+}
+
+#board {
+
+    display: grid;
+    grid-template-columns: repeat(8, auto);
+    width: 580px;
+    margin: auto;
+}
+
+.boardCell {
+    background-color: black;
+
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    line-height: 75px;
+    margin: 0;
+    font-size: 50px;
+    cursor: pointer;
+
+}
