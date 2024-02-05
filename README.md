@@ -12,9 +12,10 @@ How to Run the Application:
 
 Clone the project repository to your local machine.
 Open the index file in your preferred web browser.
-Note:
-
 Or go to https://mrsluggan.github.io/ChessJs/
+
+
+Note:
 
 This project primarily aims to enhance understanding of JavaScript.
 
