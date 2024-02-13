@@ -100,13 +100,13 @@ function addPawns(index, chessBoardCells, boardArray) {
     }
 
     //Rita svarta knäckt
-    if (index == 1 || index == 6) {
+    if (index == 2 || index == 5) {
         boardArray[index] = "pawn";
         chessBoardCells.innerHTML = "♗"; // Black bishop emoji
     }
 
     //Rita svarta häst
-    if (index == 2 || index == 5) {
+    if (index == 1 || index == 6) {
         boardArray[index] = "pawn";
         chessBoardCells.innerHTML = "♘"; // Black knight emoji
     }
