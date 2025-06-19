@@ -1,21 +1,17 @@
-Unrestricted Chess: Play Without Boundaries
+# Unrestricted Chess: Play Without Boundaries
 
-Features:
+## Overview
+Unrestricted Chess offers a unique twist on the classic game by removing traditional movement restrictions. Dive into a chess experience where creativity and strategy are limitless.  
+*(Movement rules are planned for inclusion in an upcoming update.)*
 
-Experience chess without limitations – a board where rules won't hold you back. (Note: Movement rules will be added in the next patch.. maybe)
+## Technologies Used
+- JavaScript  
+- HTML  
 
-Technologies Used:
+## Getting Started
+1. Clone the repository to your local machine.  
+2. Open the `index.html` file in your preferred web browser.  
+3. Alternatively, play online at: [https://mrsluggan.github.io/ChessJs/](https://mrsluggan.github.io/ChessJs/)
 
-JavaScript and HTML
-
-How to Run the Application:
-
-Clone the project repository to your local machine.
-Open the index file in your preferred web browser.
-Or go to https://mrsluggan.github.io/ChessJs/
-
-
-Note:
-
-This project primarily aims to enhance understanding of JavaScript.
-
+## Note
+This project is primarily designed to deepen understanding of JavaScript concepts through practical implementation.
